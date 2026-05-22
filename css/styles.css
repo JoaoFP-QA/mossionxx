@@ -418,7 +418,7 @@ footer { background:var(--deep); border-top:1px solid var(--border); padding:3re
 }
 /* ──────────── VIDEO REELS ──────────── */
 
-.video-item {
+/*.video-item {
   position: relative;
   overflow: hidden;
   border-radius: 24px;
@@ -436,4 +436,4 @@ footer { background:var(--deep); border-top:1px solid var(--border); padding:3re
 
 .video-item:hover video {
   transform: scale(1.05);
-}
+}*/
