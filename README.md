@@ -1,6 +1,6 @@
 # MossionX
 
-Landing page premium desenvolvida para posicionamento digital de marcas de alto padrão.
+Landing page premium desenvolvida para posicionamento digital de marcas de alto padrão..
 
 ## ✨ Sobre o projeto
 
