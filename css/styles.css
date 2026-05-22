@@ -439,7 +439,7 @@ footer { background:var(--deep); border-top:1px solid var(--border); padding:3re
     flex-wrap: wrap;
     justify-content: center;
     gap: 1rem;
-    font-size: 9rem;
+    font-size: .9rem;
   }
 
   .nav-wa{
