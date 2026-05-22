@@ -456,9 +456,13 @@ footer { background:var(--deep); border-top:1px solid var(--border); padding:3re
     gap:.5rem;
   }
 
-  nav.scrolled{
-    padding:.8rem 1rem;
-  }
+  nav.scrolled {
+  background: rgba(0,0,0,.94);
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 5rem;
+}
 
   .nav-links{
     display:flex;
