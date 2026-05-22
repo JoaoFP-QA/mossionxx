@@ -404,7 +404,11 @@ footer { background:var(--deep); border-top:1px solid var(--border); padding:3re
   .pain-grid{grid-template-columns:1fr 1fr}
 }
 @media(max-width:768px){
-  .nav-links,.nav-wa{display:none}
+  .nav-links{display:none;
+  }
+  .nav-wa{
+    display: flex;
+  }
   .servicos-grid{grid-template-columns:1fr}
   .portfolio-grid{grid-template-columns:1fr 1fr}
   .p-item.wide{grid-column:span 1}
